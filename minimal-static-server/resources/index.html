@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 PAGE</title>
+    <link rel="stylesheet" href="syles.css">
+</head>
+
+<body>
+    <header>
+        <div>
+            <h1>Header</h1>
+        </div>
+    </header>
+    <nav>
+        <div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#" onclick="loadHTML('main-content', 'about.html');">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main id="main-content">
+        <div class="content">
+            <h2>Index</h2>
+            <p>This is the home page.</p>
+        </div>
+    </main>
+
+    <footer>
+        <div>
+            <p>&copy; 2024 Your Company. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        async function loadHTML(elementId, url) {
+            const response = await fetch(url);
+            const text = await response.text();
+            document.getElementById(elementId).innerHTML = text;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,419 @@
+{
+	"data": [
+		{
+			"quote": "You will have a pleasant surprise.",
+			"author": "Fortune Cookie",
+			"category": "Prediction"
+		},
+		{
+			"quote": "A thrilling time is in your immediate future.",
+			"author": "Fortune Cookie",
+			"category": "Prediction"
+		},
+		{
+			"quote": "Your hard work will soon pay off.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "Happiness is often a rebound from hard work.",
+			"author": "David Grayson",
+			"category": "Happiness"
+		},
+		{
+			"quote": "You will receive some high prize or award.",
+			"author": "Fortune Cookie",
+			"category": "Prediction"
+		},
+		{
+			"quote": "The secret of getting ahead is getting started.",
+			"author": "Mark Twain",
+			"category": "Motivation"
+		},
+		{
+			"quote": "A friend asks only for your time, not your money.",
+			"author": "Fortune Cookie",
+			"category": "Relationships"
+		},
+		{
+			"quote": "Your ability to juggle many tasks will take you far.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "A stranger, is a friend you have not spoken to yet.",
+			"author": "Adapted from William Butler Yeats",
+			"category": "Relationships"
+		},
+		{
+			"quote": "A fresh start will put you on your way.",
+			"author": "Fortune Cookie",
+			"category": "New Beginnings"
+		},
+		{
+			"quote": "Your success will astonish everyone.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "Fortune favors the brave.",
+			"author": "Virgil",
+			"category": "Courage"
+		},
+		{
+			"quote": "An exciting opportunity lies ahead of you.",
+			"author": "Fortune Cookie",
+			"category": "Opportunity"
+		},
+		{
+			"quote": "Your talents will be recognized and suitably rewarded.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "Adventure can be real happiness.",
+			"author": "Aristotle (paraphrased)",
+			"category": "Adventure"
+		},
+		{
+			"quote": "A pleasant surprise is waiting for you.",
+			"author": "Fortune Cookie",
+			"category": "Prediction"
+		},
+		{
+			"quote": "You will conquer obstacles to achieve success.",
+			"author": "Fortune Cookie",
+			"category": "Perseverance"
+		},
+		{
+			"quote": "A faithful friend is a strong defense.",
+			"author": "Bible (Sirach 6:14)",
+			"category": "Relationships"
+		},
+		{
+			"quote": "You will travel to many exotic places in your lifetime.",
+			"author": "Fortune Cookie",
+			"category": "Travel"
+		},
+		{
+			"quote": "You will soon witness a miracle.",
+			"author": "Fortune Cookie",
+			"category": "Prediction"
+		},
+		{
+			"quote": "Now is a good time to try something new.",
+			"author": "Fortune Cookie",
+			"category": "New Beginnings"
+		},
+		{
+			"quote": "Your dreams are within reach.",
+			"author": "Fortune Cookie",
+			"category": "Motivation"
+		},
+		{
+			"quote": "Good news will come to you by mail.",
+			"author": "Fortune Cookie",
+			"category": "Prediction"
+		},
+		{
+			"quote": "You will meet someone special soon.",
+			"author": "Fortune Cookie",
+			"category": "Relationships"
+		},
+		{
+			"quote": "Success will come your way.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "Your positive attitude will bring you success.",
+			"author": "Fortune Cookie",
+			"category": "Positivity"
+		},
+		{
+			"quote": "You will make a change for the better.",
+			"author": "Fortune Cookie",
+			"category": "Self-Improvement"
+		},
+		{
+			"quote": "You will enjoy good health.",
+			"author": "Fortune Cookie",
+			"category": "Health"
+		},
+		{
+			"quote": "A lifetime of happiness lies ahead of you.",
+			"author": "Fortune Cookie",
+			"category": "Happiness"
+		},
+		{
+			"quote": "A new perspective will come with the new year.",
+			"author": "Fortune Cookie",
+			"category": "New Beginnings"
+		},
+		{
+			"quote": "You will be surrounded by things of luxury.",
+			"author": "Fortune Cookie",
+			"category": "Wealth"
+		},
+		{
+			"quote": "You will be successful in your career.",
+			"author": "Fortune Cookie",
+			"category": "Career"
+		},
+		{
+			"quote": "A pleasant experience is ahead.",
+			"author": "Fortune Cookie",
+			"category": "Prediction"
+		},
+		{
+			"quote": "You will soon have a new hobby.",
+			"author": "Fortune Cookie",
+			"category": "Hobbies"
+		},
+		{
+			"quote": "Good fortune is coming your way.",
+			"author": "Fortune Cookie",
+			"category": "Luck"
+		},
+		{
+			"quote": "You will enjoy peace and harmony.",
+			"author": "Fortune Cookie",
+			"category": "Peace"
+		},
+		{
+			"quote": "You will discover new talents.",
+			"author": "Fortune Cookie",
+			"category": "Self-Discovery"
+		},
+		{
+			"quote": "Happiness will find you.",
+			"author": "Fortune Cookie",
+			"category": "Happiness"
+		},
+		{
+			"quote": "Your life will be filled with joy and happiness.",
+			"author": "Fortune Cookie",
+			"category": "Happiness"
+		},
+		{
+			"quote": "A new friend will bring you joy.",
+			"author": "Fortune Cookie",
+			"category": "Relationships"
+		},
+		{
+			"quote": "You will soon achieve a long-time goal.",
+			"author": "Fortune Cookie",
+			"category": "Goals"
+		},
+		{
+			"quote": "You will find success in your endeavors.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "You will be surrounded by happy memories.",
+			"author": "Fortune Cookie",
+			"category": "Nostalgia"
+		},
+		{
+			"quote": "A positive outlook brings positive results.",
+			"author": "Fortune Cookie",
+			"category": "Positivity"
+		},
+		{
+			"quote": "You will have a bright future.",
+			"author": "Fortune Cookie",
+			"category": "Future"
+		},
+		{
+			"quote": "You will soon find what you seek.",
+			"author": "Fortune Cookie",
+			"category": "Discovery"
+		},
+		{
+			"quote": "Good things are in store for you.",
+			"author": "Fortune Cookie",
+			"category": "Luck"
+		},
+		{
+			"quote": "You will overcome a great challenge.",
+			"author": "Fortune Cookie",
+			"category": "Perseverance"
+		},
+		{
+			"quote": "A new venture will be successful.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "You will have a productive day.",
+			"author": "Fortune Cookie",
+			"category": "Productivity"
+		},
+		{
+			"quote": "A happy surprise is in your future.",
+			"author": "Fortune Cookie",
+			"category": "Prediction"
+		},
+		{
+			"quote": "You will achieve your heart's desire.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "You will be rewarded for your kindness.",
+			"author": "Fortune Cookie",
+			"category": "Kindness"
+		},
+		{
+			"quote": "A peaceful time is ahead.",
+			"author": "Fortune Cookie",
+			"category": "Peace"
+		},
+		{
+			"quote": "You will find true love.",
+			"author": "Fortune Cookie",
+			"category": "Love"
+		},
+		{
+			"quote": "You will experience a burst of energy.",
+			"author": "Fortune Cookie",
+			"category": "Energy"
+		},
+		{
+			"quote": "You will be successful in your work.",
+			"author": "Fortune Cookie",
+			"category": "Career"
+		},
+		{
+			"quote": "A moment of patience will bring you great success.",
+			"author": "Fortune Cookie",
+			"category": "Patience"
+		},
+		{
+			"quote": "You will have a joyous time with friends.",
+			"author": "Fortune Cookie",
+			"category": "Relationships"
+		},
+		{
+			"quote": "A happy life is ahead of you.",
+			"author": "Fortune Cookie",
+			"category": "Happiness"
+		},
+		{
+			"quote": "You will achieve great success.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "You will be surrounded by friends and family.",
+			"author": "Fortune Cookie",
+			"category": "Relationships"
+		},
+		{
+			"quote": "Your dreams will come true.",
+			"author": "Fortune Cookie",
+			"category": "Dreams"
+		},
+		{
+			"quote": "You will be blessed with good fortune.",
+			"author": "Fortune Cookie",
+			"category": "Luck"
+		},
+		{
+			"quote": "You will find great happiness.",
+			"author": "Fortune Cookie",
+			"category": "Happiness"
+		},
+		{
+			"quote": "You will have a successful career.",
+			"author": "Fortune Cookie",
+			"category": "Career"
+		},
+		{
+			"quote": "You will achieve your goals.",
+			"author": "Fortune Cookie",
+			"category": "Goals"
+		},
+		{
+			"quote": "You will find joy in your surroundings.",
+			"author": "Fortune Cookie",
+			"category": "Joy"
+		},
+		{
+			"quote": "You will have a bright and happy future.",
+			"author": "Fortune Cookie",
+			"category": "Future"
+		},
+		{
+			"quote": "A positive mindset brings positive things.",
+			"author": "Fortune Cookie",
+			"category": "Positivity"
+		},
+		{
+			"quote": "You will find happiness in unexpected places.",
+			"author": "Fortune Cookie",
+			"category": "Happiness"
+		},
+		{
+			"quote": "Your life will be filled with success and happiness.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		},
+		{
+			"quote": "You will make a significant impact on others.",
+			"author": "Fortune Cookie",
+			"category": "Influence"
+		},
+		{
+			"quote": "You will find fulfillment in your work.",
+			"author": "Fortune Cookie",
+			"category": "Career"
+		},
+		{
+			"quote": "Your life will be enriched with joy.",
+			"author": "Fortune Cookie",
+			"category": "Joy"
+		},
+		{
+			"quote": "You will find joy in helping others.",
+			"author": "Fortune Cookie",
+			"category": "Kindness"
+		},
+		{
+			"quote": "You will be surrounded by loved ones.",
+			"author": "Fortune Cookie",
+			"category": "Relationships"
+		},
+		{
+			"quote": "You will find peace and happiness.",
+			"author": "Fortune Cookie",
+			"category": "Peace"
+		},
+		{
+			"quote": "You will make a positive difference in the world.",
+			"author": "Fortune Cookie",
+			"category": "Influence"
+		},
+		{
+			"quote": "You will achieve your greatest ambitions.",
+			"author": "Fortune Cookie",
+			"category": "Ambition"
+		},
+		{
+			"quote": "You will find joy in simple pleasures.",
+			"author": "Fortune Cookie",
+			"category": "Joy"
+		},
+		{
+			"quote": "Your kindness will be rewarded.",
+			"author": "Fortune Cookie",
+			"category": "Kindness"
+		},
+		{
+			"quote": "You will have a successful and happy life.",
+			"author": "Fortune Cookie",
+			"category": "Success"
+		}
+	]
+}
