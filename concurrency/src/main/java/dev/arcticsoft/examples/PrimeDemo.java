@@ -1,0 +1,39 @@
+package dev.arcticsoft.examples;
+
+import java.math.BigInteger;
+import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import static java.util.concurrent.TimeUnit.SECONDS;
+
+public class PrimeDemo {
+
+    private static final ExecutorService exec = Executors.newCachedThreadPool();
+
+    /**
+     * The cancellation mechanism in PrimeGenerator will eventually cause the
+     * prime-seeking task to exit, but it might take a while.
+     *
+     * This is why the program does not exit immediately after the prime numbers
+     * are printed in log, the program is still running and exits after a
+     * certain period of time. Try to run this main method to see.
+     */
+    public static void main(final String[] args) {
+        try {
+            final List<BigInteger> primes = aSecondOfPrimes();
+            System.out.printf("List of prime numbers: {}", primes);
+        } catch (final InterruptedException e) {
+        }
+    }
+
+    public static List<BigInteger> aSecondOfPrimes() throws InterruptedException {
+        final PrimeGenerator generator = new PrimeGenerator();
+        exec.execute(generator);
+        try {
+            SECONDS.sleep(1);
+        } finally {
+            generator.cancel();
+        }
+        return generator.get();
+    }
+}
